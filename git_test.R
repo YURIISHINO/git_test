@@ -5,7 +5,4 @@ death
 
 print(death)
 View(death)
-
-git remote add origin https://github.com/YURIISHINO/git_test.git
-
-View(death)
+colnames(death)
