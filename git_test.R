@@ -5,4 +5,5 @@ death
 
 print(death)
 View(death)
+
 colnames(death)
