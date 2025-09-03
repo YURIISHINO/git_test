@@ -1,0 +1,24 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# RStudio / R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# OSごみ
+.DS_Store
+Thumbs.db
+
+#（任意）生成物・キャッシュ
+.Rcache/
+.Rproj.user/shared/notebooks/
+.Rcheck/
+.knit_meta/
+*_cache/
+cache/
+figures/
+output/
